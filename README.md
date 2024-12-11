@@ -12,7 +12,12 @@
 
 
 ## 📌예시 이미지
+*성공적으로 저장되었을 때*
 ![Example Image_성공시](Example_Image/완료.png)
-![Example Image_저장된 이미지](Example_Image/Downloaded_Image.png)
+
+*저장된 모습*
+<img src="Example_Image/Downloaded_Image.png" alt="예시" width="400">
+
+----
+*Error!*
 ![Example Image_Error](Example_Image/실패.png)
-<img src="Example_Image/실패.png" alt="Error" width="300">
